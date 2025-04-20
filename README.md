@@ -18,3 +18,5 @@ last expense ,since arrays in Solidity are zero-indexed.
 "const lastExpense = expenses.length > 0 ? expenses[expenses.length - 1] : null;"
 I added this logic to display the most recent (last) expense by accessing the last item in the expenses array.
 Then,a helper function called calculateTotals was created to compute the total amount paid, total amount owed, and the number of participants involved 
+
+(screenshots of the react app and new code added is provided in the pdf file)
